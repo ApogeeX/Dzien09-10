@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionExample", "Reflec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalLibrary", "ExternalLibrary\ExternalLibrary.csproj", "{E72FBA95-5010-42F9-B9CB-DDACF1F4342A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubSub", "PubSub\PubSub.csproj", "{17A08E70-0E23-40EC-B20D-1BF209E724AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZeroMQ", "ZeroMQ\ZeroMQ.csproj", "{E687E76C-F958-475C-8B49-96FC538AA4BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{E72FBA95-5010-42F9-B9CB-DDACF1F4342A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E72FBA95-5010-42F9-B9CB-DDACF1F4342A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E72FBA95-5010-42F9-B9CB-DDACF1F4342A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A08E70-0E23-40EC-B20D-1BF209E724AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A08E70-0E23-40EC-B20D-1BF209E724AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A08E70-0E23-40EC-B20D-1BF209E724AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A08E70-0E23-40EC-B20D-1BF209E724AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E687E76C-F958-475C-8B49-96FC538AA4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E687E76C-F958-475C-8B49-96FC538AA4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E687E76C-F958-475C-8B49-96FC538AA4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E687E76C-F958-475C-8B49-96FC538AA4BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
