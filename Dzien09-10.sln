@@ -19,9 +19,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericTypes", "GenericType
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiExample", "MauiExample\MauiExample.csproj", "{51D73593-5092-4C54-9511-6B02A664D054}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebApp", "TestWebApp\TestWebApp.csproj", "{EA1887D4-9DAD-4914-A394-C2AB74561F1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestWebApp", "TestWebApp\TestWebApp.csproj", "{EA1887D4-9DAD-4914-A394-C2AB74561F1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAppTest", "FunctionAppTest\FunctionAppTest.csproj", "{36F63F87-8CAC-44AC-8C34-913A9827FAE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionAppTest", "FunctionAppTest\FunctionAppTest.csproj", "{36F63F87-8CAC-44AC-8C34-913A9827FAE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy", "Udemy\Udemy.csproj", "{B8154313-2181-435B-A3F8-AD3147CFEB0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -71,6 +73,10 @@ Global
 		{36F63F87-8CAC-44AC-8C34-913A9827FAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36F63F87-8CAC-44AC-8C34-913A9827FAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36F63F87-8CAC-44AC-8C34-913A9827FAE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8154313-2181-435B-A3F8-AD3147CFEB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8154313-2181-435B-A3F8-AD3147CFEB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8154313-2181-435B-A3F8-AD3147CFEB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8154313-2181-435B-A3F8-AD3147CFEB0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
